@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: Dotfile installation for UNIX/Linux.
+  author: katosan
+  description: Dotfile installation for osX.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.2
